@@ -1,1 +1,8 @@
 practice github
+practice2 github
+practice3 github
+・git add 
+・git add2
+・git add3
+・git add4
+・git add5
