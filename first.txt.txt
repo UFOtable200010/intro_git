@@ -6,3 +6,4 @@ practice3 github
 ・git add3
 ・git add4
 ・git add5
+・git add6
