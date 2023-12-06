@@ -11,3 +11,5 @@ practice3 github
 ・git rm
 
 ・git status
+
+・git diff
